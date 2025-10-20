@@ -81,4 +81,4 @@
 
 |                             预览                             |        项目        |                           项目地址                           |
 | :----------------------------------------------------------: | :----------------: | :----------------------------------------------------------: |
-| <img src="https://gitee.com/kabumos/project-collection/raw/master/images/KineticBox.gif" width="300px" /> | 戒指盒 Kinetic Box | [P站下载](https://www.printables.com/model/132695-kinetic-ring-box) |
+| <img src="./pic/KineticBox.gif" width="300px" /> | 戒指盒 Kinetic Box | [P站下载](https://www.printables.com/model/132695-kinetic-ring-box) |
