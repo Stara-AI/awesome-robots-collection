@@ -17,7 +17,7 @@
 | <img src="https://raw.githubusercontent.com/wiki/NVIDIA-AI-IOT/jetbot/images/jetson-jetbot-illustration_1600x1260.png" width="300px" /> |             基于NVIDIA Jetson Nano的教育AI机器人             |      [jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)       |
 |                    超迷你机械臂机器人项目                    |     [GitHub](https://github.com/peng-zhihui/Dummy-Robot)     | 视频介绍：[【自制】我造了一台 钢 铁 侠 的 机 械 臂 ！【硬核】](https://www.bilibili.com/video/BV12341117rG) |
 |                       MiniRover火星车                        | [GitHub](https://github.com/peng-zhihui/MiniRover-Hardware)  |                    自制火星车的开源资料。                    |
-|                  X-Bot智能机械臂写字机器人                   |        [GitHub](https://github.com/peng-zhihui/X-Bot)        |                   基于CoreXY结构的机械臂。                   |
+|                  X-Bot智能机械臂写字机器人                   |        [GitHub](https://github.com/HogwartsRico/X-Bot)        |                   基于CoreXY结构的机械臂。                   |
 |                     ONE-Robot独轮机器人                      |      [GitHub](https://github.com/peng-zhihui/ONE-Robot)      |              基于IMU和STM32的独轮自平衡机器人。              |
 |                         解魔方机器人                         |      [项目主页](http://www.diy-robots.com/?page_id=46)       |                   基于乐高的解魔方机器人。                   |
 |                RoboWiki (云飞机器人中文百科)                 |       [GitHub](https://github.com/yfrobotics/robowiki)       |            机器人领域的维基百科（公共知识编辑）。            |
