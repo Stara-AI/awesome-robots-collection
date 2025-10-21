@@ -21,7 +21,6 @@
 |                     ONE-Robot独轮机器人                      |      [GitHub](https://github.com/peng-zhihui/ONE-Robot)      |              基于IMU和STM32的独轮自平衡机器人。              |
 |                  基于树莓派的目标识别与追踪                  | [GitHub](https://github.com/automaticdai/rpi-object-detection) |           基于树莓派 + Web Camera的视觉追踪项目。            |
 |                  ElectronBot迷你桌面机器人                   |    [项目主页](https://github.com/peng-zhihui/ElectronBot)    |                    非常小巧的桌面机器人。                    |
-|                           OpenCat                            |        [GitHub](https://github.com/PetoiCamp/OpenCat)        |                      开源四足机器人平台                      |
 |                           vlm_arm                            |       [GitHub](https://github.com/TommyZihao/vlm_arm)        |                     机械臂+大模型+多模态                     |
 |                  awesome-3dcv-papers-daily                   | [GitHub](https://github.com/qxiaofan/awesome-3dcv-papers-daily) | 主要记录计算机视觉、VSLAM、点云、结构光、机械臂抓取、三维重建、深度学习、自动驾驶等前沿paper与文章。 |
 |                       小觅双目相机系列                       |    [GitHub](https://github.com/slightech/MYNT-EYE-S-SDK)     |     小觅双目相机系列，提供完整的SLAM和视觉算法解决方案。     |
