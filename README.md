@@ -23,7 +23,6 @@
 |                  ElectronBot迷你桌面机器人                   |    [项目主页](https://github.com/peng-zhihui/ElectronBot)    |                    非常小巧的桌面机器人。                    |
 |                           vlm_arm                            |       [GitHub](https://github.com/TommyZihao/vlm_arm)        |                     机械臂+大模型+多模态                     |
 |                  awesome-3dcv-papers-daily                   | [GitHub](https://github.com/qxiaofan/awesome-3dcv-papers-daily) | 主要记录计算机视觉、VSLAM、点云、结构光、机械臂抓取、三维重建、深度学习、自动驾驶等前沿paper与文章。 |
-|                       小觅双目相机系列                       |    [GitHub](https://github.com/slightech/MYNT-EYE-S-SDK)     |     小觅双目相机系列，提供完整的SLAM和视觉算法解决方案。     |
 |                      大疆Tello无人机SDK                      |      [GitHub](https://github.com/dji-sdk/Tello-Python)       |  大疆Tello系列无人机的Python SDK，支持编程控制和图像处理。   |
 |                      宇树科技四足机器人                      |   [GitHub](https://github.com/unitreerobotics/unitree_ros)   |            宇树科技四足机器人Go1/Go2的ROS驱动包。            |
 |                  小米CyberDog开源四足机器人                  |   [GitHub](https://github.com/MiRoboticsLab/cyberdog_ros2)   |         小米CyberDog四足机器人的开源软件和硬件资料。         |
