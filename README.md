@@ -19,7 +19,6 @@
 |                       MiniRover火星车                        | [GitHub](https://github.com/peng-zhihui/MiniRover-Hardware)  |                    自制火星车的开源资料。                    |
 |                  X-Bot智能机械臂写字机器人                   |        [GitHub](https://github.com/HogwartsRico/X-Bot)        |                   基于CoreXY结构的机械臂。                   |
 |                     ONE-Robot独轮机器人                      |      [GitHub](https://github.com/peng-zhihui/ONE-Robot)      |              基于IMU和STM32的独轮自平衡机器人。              |
-|                RoboWiki (云飞机器人中文百科)                 |       [GitHub](https://github.com/yfrobotics/robowiki)       |            机器人领域的维基百科（公共知识编辑）。            |
 |                  基于树莓派的目标识别与追踪                  | [GitHub](https://github.com/automaticdai/rpi-object-detection) |           基于树莓派 + Web Camera的视觉追踪项目。            |
 |                  ElectronBot迷你桌面机器人                   |    [项目主页](https://github.com/peng-zhihui/ElectronBot)    |                    非常小巧的桌面机器人。                    |
 |                           OpenCat                            |        [GitHub](https://github.com/PetoiCamp/OpenCat)        |                      开源四足机器人平台                      |
