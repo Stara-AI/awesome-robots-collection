@@ -25,9 +25,10 @@
 |                  awesome-3dcv-papers-daily                   | [GitHub](https://github.com/qxiaofan/awesome-3dcv-papers-daily) | 主要记录计算机视觉、VSLAM、点云、结构光、机械臂抓取、三维重建、深度学习、自动驾驶等前沿paper与文章。 |
 |                      宇树科技四足机器人                      |   [GitHub](https://github.com/unitreerobotics/unitree_ros)   |            宇树科技四足机器人Go1/Go2的ROS驱动包。            |
 |                  小米CyberDog开源四足机器人                  |   [GitHub](https://github.com/MiRoboticsLab/cyberdog_ros2)   |         小米CyberDog四足机器人的开源软件和硬件资料。         |
-|                 浙江大学FAST实验室无人机项目                 |   [GitHub](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)   |              250mm自主无人机的硬件和软件设计。               |
-|                  香港科技大学空中机器人项目                  |  [GitHub](https://github.com/HKUST-Aerial-Robotics/FIESTA)   |       空中机器人在线运动规划的快速增量欧几里得距离场。       |
-|      <img src="./pic/cover.jpg" width="300px" />            |  [GitHub](https://github.com/Forairaaaaa/Monica)              |                  DIY智能手表Monica                         |
+|                 浙江大学FAST实验室无人机项目                 |    [GitHub](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)   |              250mm自主无人机的硬件和软件设计。               |
+|                  香港科技大学空中机器人项目                  |    [GitHub](https://github.com/HKUST-Aerial-Robotics/FIESTA)   |       空中机器人在线运动规划的快速增量欧几里得距离场。       |
+|      <img src="./pic/cover.jpg" width="300px" />            |     [GitHub](https://github.com/Forairaaaaa/Monica)             |                  DIY智能手表Monica                         |
+|      <img src="./pic/4e.jpg" width="300px" />               |     [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                  树莓派 AMOLED 屏幕小电脑                         |
 ## 2. 电子设计项目 
 
 |              项目名称               |                           项目地址                           |                           项目介绍                           |
