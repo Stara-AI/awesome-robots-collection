@@ -30,6 +30,7 @@
 |      <img src="./pic/cover.jpg" width="300px" />            |     [GitHub](https://github.com/Forairaaaaa/Monica)             |                  DIY智能手表Monica                         |
 |      <img src="./pic/4e.jpg" width="300px" />               |     [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                  树莓派 AMOLED 屏幕小电脑                   |
 |      <img src="./pic/MagicMirror.png" width="300px" />      |     [GitHub](https://github.com/MagicMirrorOrg/MagicMirror) [安装手册](https://docs.magicmirror.builders/getting-started/installation.html) [组件列表](https://modules.magicmirror.builders/)             |                       模块化智能镜面，把镜子变成智能助手          |
+|   <img src="./pic/flix1.1.jpg" width="300px" />             |         [GitHub](https://github.com/okalachev/flix)              |                    基于 ESP32 的四轴飞行器                  |
 
 ## 2. 电子设计项目 
 
