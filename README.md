@@ -28,7 +28,9 @@
 |                 浙江大学FAST实验室无人机项目                 |    [GitHub](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)   |              250mm自主无人机的硬件和软件设计。               |
 |                  香港科技大学空中机器人项目                  |    [GitHub](https://github.com/HKUST-Aerial-Robotics/FIESTA)   |       空中机器人在线运动规划的快速增量欧几里得距离场。       |
 |      <img src="./pic/cover.jpg" width="300px" />            |     [GitHub](https://github.com/Forairaaaaa/Monica)             |                  DIY智能手表Monica                         |
-|      <img src="./pic/4e.jpg" width="300px" />               |     [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                  树莓派 AMOLED 屏幕小电脑                         |
+|      <img src="./pic/4e.jpg" width="300px" />               |     [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                  树莓派 AMOLED 屏幕小电脑                   |
+|      <img src="./pic/MagicMirror.png" width="300px" />      |     [GitHub](https://github.com/MagicMirrorOrg/MagicMirror) [安装手册](https://docs.magicmirror.builders/getting-started/installation.html) [组件列表](https://modules.magicmirror.builders/)             |                       模块化智能镜面，把镜子变成智能助手          |
+
 ## 2. 电子设计项目 
 
 |              项目名称               |                           项目地址                           |                           项目介绍                           |
