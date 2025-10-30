@@ -15,23 +15,22 @@
 | <img src="https://github.com/MakeYourPet/hexapod/blob/main/Illustrations/yellow2.png" width="300px" /> |                        手机六足机器人                        |      [hexapod](https://github.com/MakeYourPet/hexapod)       |
 | <img src="https://gitee.com/kabumos/quadruped/raw/master/images/IMG_20150805_231015_preview_featured.jpg" width="300px" /> |                          四足机器人                          |        [hexapod](https://gitee.com/kabumos/quadruped)        |
 | <img src="https://raw.githubusercontent.com/wiki/NVIDIA-AI-IOT/jetbot/images/jetson-jetbot-illustration_1600x1260.png" width="300px" /> |             基于NVIDIA Jetson Nano的教育AI机器人             |      [jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)       |
-|                    超迷你机械臂机器人项目                    |     [GitHub](https://github.com/peng-zhihui/Dummy-Robot)     | 视频介绍：[【自制】我造了一台 钢 铁 侠 的 机 械 臂 ！【硬核】](https://www.bilibili.com/video/BV12341117rG) |
-|                       MiniRover火星车                        | [GitHub](https://github.com/peng-zhihui/MiniRover-Hardware)  |                    自制火星车的开源资料。                    |
-|                  X-Bot智能机械臂写字机器人                   |        [GitHub](https://github.com/HogwartsRico/X-Bot)        |                   基于CoreXY结构的机械臂。                   |
-|                     ONE-Robot独轮机器人                      |      [GitHub](https://github.com/peng-zhihui/ONE-Robot)      |              基于IMU和STM32的独轮自平衡机器人。              |
-|                  基于树莓派的目标识别与追踪                  | [GitHub](https://github.com/automaticdai/rpi-object-detection) |           基于树莓派 + Web Camera的视觉追踪项目。            |
-|                  ElectronBot迷你桌面机器人                   |    [项目主页](https://github.com/peng-zhihui/ElectronBot)    |                    非常小巧的桌面机器人。                    |
-|                           vlm_arm                            |       [GitHub](https://github.com/TommyZihao/vlm_arm)        |                     机械臂+大模型+多模态                     |
-|                  awesome-3dcv-papers-daily                   | [GitHub](https://github.com/qxiaofan/awesome-3dcv-papers-daily) | 主要记录计算机视觉、VSLAM、点云、结构光、机械臂抓取、三维重建、深度学习、自动驾驶等前沿paper与文章。 |
-|                      宇树科技四足机器人                      |   [GitHub](https://github.com/unitreerobotics/unitree_ros)   |            宇树科技四足机器人Go1/Go2的ROS驱动包。            |
-|                  小米CyberDog开源四足机器人                  |   [GitHub](https://github.com/MiRoboticsLab/cyberdog_ros2)   |         小米CyberDog四足机器人的开源软件和硬件资料。         |
-|                 浙江大学FAST实验室无人机项目                 |    [GitHub](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)   |              250mm自主无人机的硬件和软件设计。               |
-|                  香港科技大学空中机器人项目                  |    [GitHub](https://github.com/HKUST-Aerial-Robotics/FIESTA)   |       空中机器人在线运动规划的快速增量欧几里得距离场。       |
-|      <img src="./pic/cover.jpg" width="300px" />            |     [GitHub](https://github.com/Forairaaaaa/Monica)             |                  DIY智能手表Monica                         |
-|      <img src="./pic/4e.jpg" width="300px" />               |     [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                  树莓派 AMOLED 屏幕小电脑                   |
-|      <img src="./pic/MagicMirror.png" width="300px" />      |     [GitHub](https://github.com/MagicMirrorOrg/MagicMirror) [安装手册](https://docs.magicmirror.builders/getting-started/installation.html) [组件列表](https://modules.magicmirror.builders/)             |                       模块化智能镜面，把镜子变成智能助手          |
-|   <img src="./pic/flix1.1.jpg" width="300px" />             |         [GitHub](https://github.com/okalachev/flix)              |                    基于 ESP32 的四轴飞行器                  |
-
+|                    超迷你机械臂机器人项目                    |   视频介绍：[【自制】我造了一台 钢 铁 侠 的 机 械 臂 ！【硬核】](https://www.bilibili.com/video/BV12341117rG) |   [GitHub](https://github.com/peng-zhihui/Dummy-Robot)     |
+|                       MiniRover火星车                        |                    自制火星车的开源资料。                    |   [GitHub](https://github.com/peng-zhihui/MiniRover-Hardware) |                
+|                  X-Bot智能机械臂写字机器人                   |                   基于CoreXY结构的机械臂。                   |        [GitHub](https://github.com/HogwartsRico/X-Bot)        |                
+|                     ONE-Robot独轮机器人                      |               基于IMU和STM32的独轮自平衡机器人。              |   [GitHub](https://github.com/peng-zhihui/ONE-Robot)      |            
+|                  基于树莓派的目标识别与追踪                  |            基于树莓派 + Web Camera的视觉追踪项目。            |   [GitHub](https://github.com/automaticdai/rpi-object-detection) |       
+|                  ElectronBot迷你桌面机器人                   |                    非常小巧的桌面机器人。                    |       [项目主页](https://github.com/peng-zhihui/ElectronBot)    |           
+|                           vlm_arm                            |                     机械臂+大模型+多模态                     |        [GitHub](https://github.com/TommyZihao/vlm_arm)         |      
+|                  awesome-3dcv-papers-daily                   | 主要记录计算机视觉、VSLAM、点云、结构光、机械臂抓取、三维重建、深度学习、自动驾驶等前沿paper与文章。 |  [GitHub](https://github.com/qxiaofan/awesome-3dcv-papers-daily) | 
+|                      宇树科技四足机器人                      |    宇树科技四足机器人Go1/Go2的ROS驱动包。            | [GitHub](https://github.com/unitreerobotics/unitree_ros)   |           
+|                  小米CyberDog开源四足机器人                  |   小米CyberDog四足机器人的开源软件和硬件资料。         | [GitHub](https://github.com/MiRoboticsLab/cyberdog_ros2)   |        
+|                 浙江大学FAST实验室无人机项目                 |           250mm自主无人机的硬件和软件设计。               | [GitHub](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)   |      
+|                  香港科技大学空中机器人项目                  |         空中机器人在线运动规划的快速增量欧几里得距离场。       | [GitHub](https://github.com/HKUST-Aerial-Robotics/FIESTA)   | 
+|      <img src="./pic/cover.jpg" width="300px" />            |         DIY智能手表Monica                         |   [GitHub](https://github.com/Forairaaaaa/Monica)             |             
+|      <img src="./pic/4e.jpg" width="300px" />               |        树莓派 AMOLED 屏幕小电脑                    |  [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                 
+|      <img src="./pic/MagicMirror.png" width="300px" />      |                         模块化智能镜面，把镜子变成智能助手          |   [GitHub](https://github.com/MagicMirrorOrg/MagicMirror) [安装手册](https://docs.magicmirror.builders/getting-started/installation.html) [组件列表](https://modules.magicmirror.builders/)             |
+|   <img src="./pic/flix1.1.jpg" width="300px" />             |          基于 ESP32 的四轴飞行器          |    [GitHub](https://github.com/okalachev/flix)              |              
 ## 2. 电子设计项目 
 
 |              项目名称               |                           项目地址                           |                           项目介绍                           |
