@@ -15,7 +15,7 @@
 | <img src="https://github.com/MakeYourPet/hexapod/blob/main/Illustrations/yellow2.png" width="300px" /> |                        手机六足机器人                        |      [hexapod](https://github.com/MakeYourPet/hexapod)       |
 | <img src="https://gitee.com/kabumos/quadruped/raw/master/images/IMG_20150805_231015_preview_featured.jpg" width="300px" /> |                          四足机器人                          |        [hexapod](https://gitee.com/kabumos/quadruped)        |
 | <img src="https://raw.githubusercontent.com/wiki/NVIDIA-AI-IOT/jetbot/images/jetson-jetbot-illustration_1600x1260.png" width="300px" /> |             基于NVIDIA Jetson Nano的教育AI机器人             |      [jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)       |
-| <img src="./pic/robot1.jpg" width="300px" /> |                        ElectronBot                         | [github 查看桌面级小机器工具人](https://github.com/peng-zhihui/ElectronBot) [语音版](https://github.com/jinsonli/ElectronBot-Voice) |
+| <img src="./pic/robot1.jpg" width="300px" /> |                        ElectronBot                         | [桌面级小机器工具人](https://github.com/peng-zhihui/ElectronBot)  [语音版](https://github.com/jinsonli/ElectronBot-Voice) |
 |                    超迷你机械臂机器人项目                    |   视频介绍：[【自制】我造了一台 钢 铁 侠 的 机 械 臂 ！【硬核】](https://www.bilibili.com/video/BV12341117rG) |   [GitHub](https://github.com/peng-zhihui/Dummy-Robot)     |
 |                       MiniRover火星车                        |                    自制火星车的开源资料。                    |   [GitHub](https://github.com/peng-zhihui/MiniRover-Hardware) |                
 |                  X-Bot智能机械臂写字机器人                   |                   基于CoreXY结构的机械臂。                   |        [GitHub](https://github.com/HogwartsRico/X-Bot)        |                
