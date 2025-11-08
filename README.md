@@ -32,7 +32,8 @@
 |      <img src="./pic/4e.jpg" width="300px" />               |        树莓派 AMOLED 屏幕小电脑                    |  [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                 
 |      <img src="./pic/MagicMirror.png" width="300px" />      |                         模块化智能镜面，把镜子变成智能助手          |   [GitHub](https://github.com/MagicMirrorOrg/MagicMirror) [安装手册](https://docs.magicmirror.builders/getting-started/installation.html) [组件列表](https://modules.magicmirror.builders/)             |
 |   <img src="./pic/flix1.1.jpg" width="300px" />             |          基于 ESP32 的四轴飞行器          |    [GitHub](https://github.com/okalachev/flix)              |         
-|   <img src="./pic/7.png" width="300px" />                   |          lyfPrinter热敏打印机             |    [项目主页](https://oshwhub.com/lengyuefeng/re-min-da-yin-ji-stm32_-li-dian-chi-gong-dian-v1-0) |     
+|   <img src="./pic/7.png" width="300px" />                   |          lyfPrinter热敏打印机             |    [项目主页](https://oshwhub.com/lengyuefeng/re-min-da-yin-ji-stm32_-li-dian-chi-gong-dian-v1-0) |  
+|   <img src="./pic/hi-cover.jpg" width="300px" />            |         ESP32-C3——AI对话机器狗            |  [立创](https://oshwhub.com/esp-college/esp-hi) [Gitee开源 ](https://oshwhub.com/esp-college/esp-hi)|  
 ## 2. 电子设计项目 
 
 |              项目名称               |                           项目地址                           |                           项目介绍                           |
