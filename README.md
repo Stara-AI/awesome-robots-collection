@@ -2,7 +2,7 @@
 
 |                             预览                             |                             项目                             |                           项目地址                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/RobotReal.jpg" width="300px" />,<img src="./pic/RobotRender.png" width="300px" />|        桌面级双轮腿机器人      |   [gitHub 查看](https://github.com/MuShibo/Micro-Wheeled_leg-Robot/blob/master/README_CN.md),  [ TOMMY优化版](https://gitee.com/myperworld/wrobot)   |
+| <img src="./pic/RobotReal.jpg" width="300px" />,<img src="./pic/RobotRender.png" width="300px" />|        桌面级双轮腿机器人      |   [gitHub 查看](https://github.com/MuShibo/Micro-Wheeled_leg-Robot/blob/master/README_CN.md)| [ TOMMY优化版](https://gitee.com/myperworld/wrobot)   |
 | <img src="https://github.com/stanfordroboticsclub/StanfordQuadruped/assets/1295426/96d09d2b-9d99-4a0b-b30b-6e317d7b286b" width="300px" /> |                          Quadruped                           | [github查看](https://github.com/stanfordroboticsclub/StanfordQuadruped) |
 | <img src="https://raw.githubusercontent.com/PetoiCamp/NonCodeFiles/refs/heads/master/gif/walk.gif" width="300px" /> |                           OpenCat                            | [github查看](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) |
 | <img src="https://gitee.com/zmem/interesting-robots/raw/master/pic/Gww0VU2acAAChJM.jpg" width="300px" /> |                         AmazingHand                          | [gihub 查看](https://github.com/pollen-robotics/AmazingHand) |
@@ -31,12 +31,12 @@
 |                  香港科技大学空中机器人项目                  |         空中机器人在线运动规划的快速增量欧几里得距离场。       | [GitHub](https://github.com/HKUST-Aerial-Robotics/FIESTA)   | 
 |      <img src="./pic/cover.jpg" width="300px" />            |         DIY智能手表Monica                         |   [GitHub](https://github.com/Forairaaaaa/Monica)             |             
 |      <img src="./pic/4e.jpg" width="300px" />               |        树莓派 AMOLED 屏幕小电脑                    |  [GitHub](https://github.com/Forairaaaaa/Rebecca)            |                 
-|      <img src="./pic/MagicMirror.png" width="300px" />      |                         模块化智能镜面，把镜子变成智能助手          |   [GitHub](https://github.com/MagicMirrorOrg/MagicMirror) [安装手册](https://docs.magicmirror.builders/getting-started/installation.html) [组件列表](https://modules.magicmirror.builders/)             |
+|      <img src="./pic/MagicMirror.png" width="300px" />      |                         模块化智能镜面，把镜子变成智能助手          |   [GitHub](https://github.com/MagicMirrorOrg/MagicMirror) | [安装手册](https://docs.magicmirror.builders/getting-started/installation.html)| [组件列表](https://modules.magicmirror.builders/)             |
 |   <img src="./pic/flix1.1.jpg" width="300px" />             |          基于 ESP32 的四轴飞行器          |    [GitHub](https://github.com/okalachev/flix)              |         
 |   <img src="./pic/7.png" width="300px" />                   |          lyfPrinter热敏打印机             |    [项目主页](https://oshwhub.com/lengyuefeng/re-min-da-yin-ji-stm32_-li-dian-chi-gong-dian-v1-0) |  
-|   <img src="./pic/hi-cover.jpg" width="300px" />            |         ESP32-C3——AI对话机器狗            |  [立创](https://oshwhub.com/esp-college/esp-hi) [Gitee查看 ](https://oshwhub.com/esp-college/esp-hi)| 
+|   <img src="./pic/hi-cover.jpg" width="300px" />            |         ESP32-C3——AI对话机器狗            |  [立创](https://oshwhub.com/esp-college/esp-hi)| [Gitee查看 ](https://oshwhub.com/esp-college/esp-hi)| 
 |   <img src="./pic/osr-side-outside.jpg" width="300px" />            |        一辆基于火星探测车的自制六轮探测车！           |  [Github查看 ](https://github.com/nasa-jpl/open-source-rover)|  
-|   <img src="./pic/EchoEar.jpg" width="300px" />            |       EchoEar 喵伴：会听、会动、会陪伴的 AI 萌宠            |  [Github查看 ](https://github.com/espressif/esp-brookesia/tree/master/products/speaker), [立创](https://oshwhub.com/esp-college/echoear),  [EchoEar(喵伴)用户指南](https://espressif.craft.me/1gOl65rON8G8FK) |
+|   <img src="./pic/EchoEar.jpg" width="300px" />            |       EchoEar 喵伴：会听、会动、会陪伴的 AI 萌宠            |  [Github查看 ](https://github.com/espressif/esp-brookesia/tree/master/products/speaker)|[立创](https://oshwhub.com/esp-college/echoear)|  [EchoEar(喵伴)用户指南](https://espressif.craft.me/1gOl65rON8G8FK) |
 ## 2. 电子设计项目 
 
 |              项目名称               |                           项目地址                           |                           项目介绍                           |
