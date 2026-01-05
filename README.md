@@ -36,6 +36,7 @@
 |   <img src="./pic/7.png" width="300px" />                   |          lyfPrinter热敏打印机             |    [项目主页](https://oshwhub.com/lengyuefeng/re-min-da-yin-ji-stm32_-li-dian-chi-gong-dian-v1-0) |  
 |   <img src="./pic/hi-cover.jpg" width="300px" />            |         ESP32-C3——AI对话机器狗            |  [立创](https://oshwhub.com/esp-college/esp-hi) [Gitee查看 ](https://oshwhub.com/esp-college/esp-hi)| 
 |   <img src="./pic/osr-side-outside.jpg" width="300px" />            |        一辆基于火星探测车的自制六轮探测车！           |  [Github查看 ](https://github.com/nasa-jpl/open-source-rover)|  
+|   <img src="./pic/EchoEar.jpg" width="300px" />            |       EchoEar 喵伴：会听、会动、会陪伴的 AI 萌宠            |  [Github查看 ](https://github.com/espressif/esp-brookesia/tree/master/products/speaker), [立创](https://oshwhub.com/esp-college/echoear),  [EchoEar(喵伴)用户指南](https://espressif.craft.me/1gOl65rON8G8FK) |
 ## 2. 电子设计项目 
 
 |              项目名称               |                           项目地址                           |                           项目介绍                           |
